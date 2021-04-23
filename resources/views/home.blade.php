@@ -1,6 +1,6 @@
 @extends('layouts.main')
 
-@section('title', 'YouTube Links App')
+@section('title', 'YouTube Links App - Github Promjena')
 
 @section('content')
 
